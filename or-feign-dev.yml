@@ -1,5 +1,5 @@
 ss:
-  name:123
+  name: 123
 
 spring:
   redis:
