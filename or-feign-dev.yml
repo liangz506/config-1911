@@ -16,6 +16,5 @@ feign:
   client:
     config:
       default:
-        execution:
-          timeout:
-            enabled: false
+        connectTimeout: 10000
+        readTimeout: 10000       
