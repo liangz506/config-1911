@@ -3,7 +3,7 @@ ss:
 
 spring:
   redis:
-    database: 15
+    database: 0
     host: localhost
     port: 6379
     timeout: 6000ms
