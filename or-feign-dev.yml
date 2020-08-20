@@ -1,3 +1,6 @@
+ss:
+  name:123
+
 spring:
   redis:
     database: 0
