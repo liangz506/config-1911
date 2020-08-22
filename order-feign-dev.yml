@@ -1,6 +1,3 @@
-ss:
-  name: 456
-
 spring:
   redis:
     database: 10
